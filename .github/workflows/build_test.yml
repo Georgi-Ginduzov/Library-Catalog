@@ -24,4 +24,4 @@ jobs:
       run: npm install
            npm install -D @playwright/test
     - name: Run tests
-    - run: npm run tests
+      run: npm run tests
